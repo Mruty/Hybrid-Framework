@@ -1,0 +1,73 @@
+2017-12-16 23:09:10,616 - [in.swagen.framework.test.BaseTest] - INFO - framework is initialised 
+2017-12-16 23:09:10,632 - [in.swagen.framework.test.BaseTest] - INFO - chrome 
+2017-12-16 23:09:10,633 - [in.swagen.framework.test.BaseTest] - INFO - http://opt.fasdec.org/opt 
+2017-12-16 23:09:10,633 - [in.swagen.framework.test.BaseTest] - INFO - demo 
+2017-12-16 23:09:10,634 - [in.swagen.framework.test.BaseTest] - INFO - optdemo 
+2017-12-16 23:09:10,637 - [in.swagen.framework.test.BaseTest] - INFO - 10 
+2017-12-16 23:09:19,857 - [in.swagen.framework.test.BaseTest] - INFO - chrome is launched 
+2017-12-16 23:09:21,140 - [in.swagen.framework.test.BaseTest] - ERROR - eeeeeeeeeee 
+2017-12-16 23:09:23,271 - [in.swagen.framework.test.BaseTest] - INFO - chrome is closed 
+2017-12-16 23:10:34,148 - [in.swagen.framework.test.DemoTest] - INFO - framework is initialised 
+2017-12-16 23:10:34,163 - [in.swagen.framework.test.DemoTest] - INFO - chrome 
+2017-12-16 23:10:34,165 - [in.swagen.framework.test.DemoTest] - INFO - http://opt.fasdec.org/opt 
+2017-12-16 23:10:34,165 - [in.swagen.framework.test.DemoTest] - INFO - demo 
+2017-12-16 23:10:34,166 - [in.swagen.framework.test.DemoTest] - INFO - optdemo 
+2017-12-16 23:10:34,167 - [in.swagen.framework.test.DemoTest] - INFO - 10 
+2017-12-16 23:10:43,054 - [in.swagen.framework.test.DemoTest] - INFO - chrome is launched 
+2017-12-16 23:10:44,350 - [in.swagen.framework.test.DemoTest] - ERROR - eeeeeeeeeee 
+2017-12-16 23:10:46,579 - [in.swagen.framework.test.DemoTest] - INFO - chrome is closed 
+2017-12-18 09:33:14,429 - [in.swagen.framework.test.DemoTest] - INFO - framework is initialised 
+2017-12-18 09:33:14,467 - [in.swagen.framework.test.DemoTest] - INFO - chrome 
+2017-12-18 09:33:14,468 - [in.swagen.framework.test.DemoTest] - INFO - http://opt.fasdec.org/opt 
+2017-12-18 09:33:14,469 - [in.swagen.framework.test.DemoTest] - INFO - demo 
+2017-12-18 09:33:14,470 - [in.swagen.framework.test.DemoTest] - INFO - optdemo 
+2017-12-18 09:33:14,470 - [in.swagen.framework.test.DemoTest] - INFO - 10 
+2017-12-18 09:33:28,027 - [in.swagen.framework.test.DemoTest] - INFO - chrome is launched 
+2017-12-18 09:33:29,197 - [in.swagen.framework.test.DemoTest] - ERROR - eeeeeeeeeee 
+2017-12-18 09:33:29,318 - [in.swagen.framework.test.DemoTest] - INFO - chrome is closed 
+2017-12-18 09:37:04,906 - [in.swagen.framework.test.DemoTest] - INFO - framework is initialised 
+2017-12-18 09:37:04,928 - [in.swagen.framework.test.DemoTest] - INFO - chrome 
+2017-12-18 09:37:04,929 - [in.swagen.framework.test.DemoTest] - INFO - http://opt.fasdec.org/opt 
+2017-12-18 09:37:04,930 - [in.swagen.framework.test.DemoTest] - INFO - demo 
+2017-12-18 09:37:04,931 - [in.swagen.framework.test.DemoTest] - INFO - optdemo 
+2017-12-18 09:37:04,931 - [in.swagen.framework.test.DemoTest] - INFO - 10 
+2017-12-18 09:38:12,580 - [in.swagen.framework.test.DemoTest] - INFO - chrome is launched 
+2017-12-18 09:39:22,200 - [in.swagen.framework.test.DemoTest] - INFO - framework is initialised 
+2017-12-18 09:39:22,224 - [in.swagen.framework.test.DemoTest] - INFO - chrome 
+2017-12-18 09:39:22,224 - [in.swagen.framework.test.DemoTest] - INFO - http://opt.fasdec.org/opt 
+2017-12-18 09:39:22,225 - [in.swagen.framework.test.DemoTest] - INFO - demo 
+2017-12-18 09:39:22,226 - [in.swagen.framework.test.DemoTest] - INFO - optdemo 
+2017-12-18 09:39:22,226 - [in.swagen.framework.test.DemoTest] - INFO - 10 
+2017-12-18 09:39:30,637 - [in.swagen.framework.test.DemoTest] - INFO - chrome is launched 
+2017-12-18 09:40:01,887 - [in.swagen.framework.test.DemoTest] - INFO - framework is initialised 
+2017-12-18 09:40:01,916 - [in.swagen.framework.test.DemoTest] - INFO - chrome 
+2017-12-18 09:40:01,917 - [in.swagen.framework.test.DemoTest] - INFO - http://opt.fasdec.org/opt 
+2017-12-18 09:40:01,917 - [in.swagen.framework.test.DemoTest] - INFO - demo 
+2017-12-18 09:40:01,919 - [in.swagen.framework.test.DemoTest] - INFO - optdemo 
+2017-12-18 09:40:01,920 - [in.swagen.framework.test.DemoTest] - INFO - 10 
+2017-12-18 09:40:10,286 - [in.swagen.framework.test.DemoTest] - INFO - chrome is launched 
+2017-12-18 09:41:01,644 - [in.swagen.framework.test.DemoTest] - INFO - framework is initialised 
+2017-12-18 09:41:01,660 - [in.swagen.framework.test.DemoTest] - INFO - chrome 
+2017-12-18 09:41:01,661 - [in.swagen.framework.test.DemoTest] - INFO - http://opt.fasdec.org/opt 
+2017-12-18 09:41:01,662 - [in.swagen.framework.test.DemoTest] - INFO - demo 
+2017-12-18 09:41:01,663 - [in.swagen.framework.test.DemoTest] - INFO - optdemo 
+2017-12-18 09:41:01,663 - [in.swagen.framework.test.DemoTest] - INFO - 10 
+2017-12-18 09:41:09,411 - [in.swagen.framework.test.DemoTest] - INFO - chrome is launched 
+2017-12-18 09:41:10,514 - [in.swagen.framework.test.DemoTest] - ERROR - eeeeeeeeeee 
+2017-12-18 09:41:10,654 - [in.swagen.framework.test.DemoTest] - INFO - chrome is closed 
+2017-12-18 09:41:43,198 - [in.swagen.framework.test.DemoTest] - INFO - framework is initialised 
+2017-12-18 09:41:43,215 - [in.swagen.framework.test.DemoTest] - INFO - chrome 
+2017-12-18 09:41:43,216 - [in.swagen.framework.test.DemoTest] - INFO - http://opt.fasdec.org/opt 
+2017-12-18 09:41:43,217 - [in.swagen.framework.test.DemoTest] - INFO - demo 
+2017-12-18 09:41:43,218 - [in.swagen.framework.test.DemoTest] - INFO - optdemo 
+2017-12-18 09:41:43,218 - [in.swagen.framework.test.DemoTest] - INFO - 10 
+2017-12-18 09:41:50,522 - [in.swagen.framework.test.DemoTest] - INFO - chrome is launched 
+2017-12-18 09:42:56,688 - [in.swagen.framework.test.DemoTest] - INFO - framework is initialised 
+2017-12-18 09:42:56,714 - [in.swagen.framework.test.DemoTest] - INFO - chrome 
+2017-12-18 09:42:56,717 - [in.swagen.framework.test.DemoTest] - INFO - http://opt.fasdec.org/opt 
+2017-12-18 09:42:56,717 - [in.swagen.framework.test.DemoTest] - INFO - demo 
+2017-12-18 09:42:56,718 - [in.swagen.framework.test.DemoTest] - INFO - optdemo 
+2017-12-18 09:42:56,719 - [in.swagen.framework.test.DemoTest] - INFO - 10 
+2017-12-18 09:43:04,760 - [in.swagen.framework.test.DemoTest] - INFO - chrome is launched 
+2017-12-18 09:43:05,851 - [in.swagen.framework.test.DemoTest] - ERROR - eeeeeeeeeee 
+2017-12-18 09:43:06,014 - [in.swagen.framework.test.DemoTest] - INFO - chrome is closed 
